@@ -1,0 +1,8 @@
+{
+  "AWS_ACCESS_KEY_ID": "supersecretaccesskeyid",
+  "AWS_SECRET_ACCESS_KEY": "abc4t0we6358275mhfhdg",
+  "API_ENDPOINT_LOGIN": "/api/login",
+  "API_ENDPOINT_AUTHENTICATE": "/api/authenticate",
+  "DATABASE_URL": "mongodb://user:pass@host:port/db",
+  "MEMCACHE_TIMEOUT": 123
+}
