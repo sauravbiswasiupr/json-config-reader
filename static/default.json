@@ -1,0 +1,6 @@
+{
+  "CODECOV_TOKEN": "supersecretcodecovtoken",
+  "SENTRY_URL": "https://getsentry.com",
+  "NEWRELIC_TOKEN": "newrelic_token",
+  "REDIS_TIMEOUT": 20
+}
