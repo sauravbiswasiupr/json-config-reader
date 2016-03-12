@@ -1,9 +1,8 @@
 package config
 
 import (
+	"json-config-reader/config"
 	"testing"
-
-	"../config"
 
 	"github.com/stretchr/testify/assert"
 )
