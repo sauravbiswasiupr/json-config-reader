@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sauravbiswasiupr/json-config-reader.svg?branch=master)](https://travis-ci.org/sauravbiswasiupr/json-config-reader)
+
 json-config-reader
 ==================
 
