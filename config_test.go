@@ -21,7 +21,7 @@ func TestAssertConfigVarIsNumber(t *testing.T) {
 }
 
 func TestAssertWrongType(t *testing.T) {
-	configurationMap := CreateConfigMap([]string{"./static/config.json"})
+	configurationMap := CreateConfigMap([]string{"./static/config.json", "./static/default.json"})
 	dbUrl := configurationMap["DATABASE_URL"]
 	stringVal, err := IsFloat(dbUrl)
 	assert.NotNil(t, err)
