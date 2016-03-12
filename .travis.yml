@@ -1,4 +1,4 @@
-go_import_path: json-config-reader/config
+go_import_path: ./config
 language: go
 go:
   - 1.4.2
