@@ -8,8 +8,8 @@ lets you quickly and easily load all these variables from the config files
 and also variables that may have been loaded into the OS environment. It also
 allows for type assertions (floats, strings, booleans, ints).
 
-Usage
-------
+Usage instructions
+------------------
 
 * Install: `go getgithub.com/sauravbiswasiupr/json-config-reader/config`
 
