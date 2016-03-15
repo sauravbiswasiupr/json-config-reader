@@ -13,7 +13,7 @@ allows for type assertions (floats, strings, booleans, ints).
 Usage instructions
 ------------------
 
-* Install: `go getgithub.com/sauravbiswasiupr/json-config-reader/`
+* Install: `go get github.com/sauravbiswasiupr/json-config-reader/`
 
 * import the package config
 
